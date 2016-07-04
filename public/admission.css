@@ -1,0 +1,19 @@
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(f7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#border {
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 0.5em;
+    
+    
+}

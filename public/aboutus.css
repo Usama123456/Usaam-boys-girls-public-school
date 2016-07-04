@@ -1,0 +1,42 @@
+  /*Background*/
+
+    
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(f6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#orange {
+    color: yellow;
+}
+
+#green {
+    color: green;
+}
+                        /*Headings*/
+
+h1,h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+                            /*Footer Area*/
+#border {
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 22em;
+    
+    
+}
+
