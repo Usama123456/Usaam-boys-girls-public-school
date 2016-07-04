@@ -1,0 +1,188 @@
+
+                       /*Background*/
+body,
+html {
+    min-height: 100% ;
+}
+
+body {
+    background-image: url(att3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+                        /*Headings*/
+h1 {
+    
+    text-align: center;
+    color: white;
+    font-size: 2.2em;
+    text-shadow: 2px 2px 2px greenyellow;
+ 
+    
+}
+
+h1:hover {
+    text-shadow: 2px 2px 2px black;
+}
+h2 {
+    color: white;
+    text-shadow: 2px 2px 2px greenyellow;
+    font-size: 1.6em;
+}
+
+                          /*Navigation Bar*/
+
+button:hover {
+    background: cadetblue;
+}
+button:visited {
+    background: greenyellow;
+}
+    
+a {
+    text-decoration: none;
+}    
+
+#backgroundColorNav {
+    background-color: rgba(6,45,23,0.5);
+    margin: 0.5em;
+    overflow: hidden;
+    border-radius: 5em;
+    width: 60em;
+    height: 4em;
+}
+
+
+button:visited {
+    color: darkgoldenrod;
+}
+    
+
+
+   li a {
+        display: block;
+        color: white;
+        padding: 4px;
+        margin: 3px;
+        text-decoration: none;
+       
+}
+    
+li {
+        float: left;
+        padding: 5px;
+        margin: 22px;
+}
+    
+    
+li a:hover {
+       
+      text-decoration: underline;
+       text-shadow: 2px 2px 2px black;
+}
+
+
+ul {
+    list-style-type: none;
+    display: block;
+    padding: 0.5px;
+    margin: -7px;    
+}
+
+                       /*Principal's Message*/
+p {
+    font-size: 1.1em;
+    color: white;
+    text-align: justify;
+   
+}
+
+
+                     /*School Building*/
+img {
+    margin-left: 1em;
+    width: 30em;
+    height: 39em;
+    border: 10px solid black;
+    border-radius: 0.5em;
+}
+
+                     
+                      /*Opacity*/
+#overlay {
+    background-color: rgba(20,55,39,0.55);
+    margin: 1em auto;
+    width: 60em;
+    height: 46em;
+    border-radius: 0.5em;
+}    
+
+
+                      /*Opacity Content*/
+.block1 {
+    width: 33em;
+    height: 31em;
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.block2 {
+    width: 22em;
+    float: left;
+    margin-left:0.5em;
+}
+
+
+                       /*Social Media*/
+button {
+    text-decoration: none;
+    display: inline;
+    width: 12em;
+    height: 4em;
+    background-color: lightskyblue;
+    color: white;
+    border: 0; 
+    border-radius: 0.2em;
+    font size: 2em;
+    margin-top: 0.3em;
+}
+                                                                   
+                               /*Footer Area*/
+                                
+#border {
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 42em;
+    
+    
+}
+
+.a {
+    text-shadow: 2px 2px 2px greenyellow;
+}
+
+.a:hover {
+    text-shadow: 1px 1px 2px black;
+}
+    
+    
+    
+    
+    
+     
+    
+  
+
+
+
+
+    
+    
+    
+    
+
+
+
+

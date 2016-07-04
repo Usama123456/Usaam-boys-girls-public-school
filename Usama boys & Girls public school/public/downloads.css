@@ -1,0 +1,28 @@
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+                        /*Headings*/
+
+h1,h2,h3 {
+    color: white;
+    text-align: center;
+}
+                       /*Footer Area*/
+#border {
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 0.2em;
+    
+}
+#center {
+    margin-left: 6em;
+    margin-right: 2em;
+}

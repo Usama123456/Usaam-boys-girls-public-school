@@ -1,0 +1,31 @@
+  /*Background*/
+
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(f7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+                        /*Headings*/
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+                       /*Footer Area*/
+#border {
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 37em;
+    
+}
